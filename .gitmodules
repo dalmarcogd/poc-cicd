@@ -1,0 +1,6 @@
+[submodule "poc-cicd-app-1"]
+	path = poc-cicd-app-1
+	url = https://github.com/dalmarcogd/poc-cicd-app-1
+[submodule "poc-cicd-app-2"]
+	path = poc-cicd-app-2
+	url = https://github.com/dalmarcogd/poc-cicd-app-2
